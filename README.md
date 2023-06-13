@@ -1,1 +1,3 @@
+I decided to try to make my personal portfolio website. But for some reason it does not show my photo here until I figured it out. No time...
+
 https://serlenario.github.io/PersonalPortfolio/
