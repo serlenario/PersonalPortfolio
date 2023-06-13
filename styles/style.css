@@ -71,7 +71,7 @@ body {
 
 .home {
 	height: 100vh;
-	background: url("/images/home.jpg") no-repeat;
+	background: url("../images/home.jpg") no-repeat;
 	background-position: 85% 65%;
 	display: flex;
 	align-items: center;
